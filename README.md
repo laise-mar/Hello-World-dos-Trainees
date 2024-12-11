@@ -32,7 +32,7 @@ Olá, meus queridos trainees! Versionamento é fundamental, independentemente da
                                           MMMMMM##    MM########                                    
                                           ##########  MM####                                        
                                               ####    ####                                          
-                                                        ##                                          
+                                                ##    ##                                          
                                                                                                     
                                                                                                     
                                                                                                     
